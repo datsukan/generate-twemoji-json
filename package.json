@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "emoji.json": "^13.1.0",
+    "node-emoji": "^1.11.0",
+    "twemoji": "^14.0.2"
+  }
+}
